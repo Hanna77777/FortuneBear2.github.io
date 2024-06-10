@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张枭雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiaoxiong Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiao Xiong
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,12 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Southern University of Science and Technology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +46,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Robotics
+  - Imitation Learning
 
 education:
   - area: PhD Artificial Intelligence
@@ -72,17 +71,16 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. Mechanical Engineering
+    institution: Wuhan University of Technology
+    date_start: 2020-09
+    date_end: 2024-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.324/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Honor:
+      - National Scholarship
+      - Pacemaker to Merit Student
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
