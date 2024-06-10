@@ -71,17 +71,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Mechanical Engineering
+    institution: Wuhan University of Technology
+    date_start: 2020-09-01
+    date_end: 2024-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.324/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Honor:
+      - 2020-2021 National Scholarship
+      - 2021-2022 National Scholarship
+      - Pacemaker to Merit Student
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
